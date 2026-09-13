@@ -173,12 +173,95 @@ IoT-Bathroom-Smoke-Detector/
 
 ## ผู้จัดทำโครงงาน (Project Authors)
 
-**นักศึกษาสาขาวิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์และเทคโนโลยี มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน:**
-* นางสาว ศุภิชญา ปิ่นสุวรรณแสง (รหัส 66172110034-4)
-* นาย ณัฐกฤตย์ เรืองมะเริง (รหัส 66172110149-1)
-* นาย นวดล ศรีขาว (รหัส 66172110221-4)
-* นาย อัครเดช ศุภาโชคธราทรัพย์ (รหัส 66172110290-9)
-* นาย อัครเดช วงศ์บำราบ (รหัส 66172110337-1)
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="340" valign="top">
+        <br>
+        <a href="https://github.com/Akkaradet-Wong">
+          <img src="https://github.com/Akkaradet-Wong.png" width="105" height="105" alt="Akkaradet Wongbamrap" />
+        </a>
+        <br><br>
+        <a href="https://github.com/Akkaradet-Wong">
+          <strong>นายอัครเดช วงศ์บำราบ</strong>
+        </a>
+        <br>
+        <sub>Akkaradet Wongbamrap</sub>
+        <br>
+        <small>รหัสประจำตัว: 66172110337-1</small>
+        <br><br>
+        <a href="https://github.com/Akkaradet-Wong">
+          <img src="https://img.shields.io/badge/GitHub-Akkaradet--Wong-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile" />
+        </a>
+        <br><br>
+      </td>
+      <td align="center" width="340" valign="top">
+        <br>
+        <a href="https://github.com/Happym0sttt">
+          <img src="https://github.com/Happym0sttt.png" width="105" height="105" alt="Suphitchaya Pinsuwansaeng" />
+        </a>
+        <br><br>
+        <a href="https://github.com/Happym0sttt">
+          <strong>นางสาวศุภิชญา ปิ่นสุวรรณแสง</strong>
+        </a>
+        <br>
+        <sub>Suphitchaya Pinsuwansaeng</sub>
+        <br>
+        <small>รหัสประจำตัว: 66172110034-4</small>
+        <br><br>
+        <a href="https://github.com/Happym0sttt">
+          <img src="https://img.shields.io/badge/GitHub-Happym0sttt-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile" />
+        </a>
+        <br><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="340" valign="top">
+        <br>
+        <a href="https://github.com/MIBVI">
+          <img src="https://github.com/MIBVI.png" width="105" height="105" alt="Akkharadech Suphachoktharasap" />
+        </a>
+        <br><br>
+        <a href="https://github.com/MIBVI">
+          <strong>นายอัครเดช ศุภาโชคธราทรัพย์</strong>
+        </a>
+        <br>
+        <sub>Akkharadech Suphachoktharasap</sub>
+        <br>
+        <small>รหัสประจำตัว: 66172110290-9</small>
+        <br><br>
+        <a href="https://github.com/MIBVI">
+          <img src="https://img.shields.io/badge/GitHub-MIBVI-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile" />
+        </a>
+        <br><br>
+      </td>
+      <td align="center" width="340" valign="top">
+        <br>
+        <a href="https://github.com/nattagrit">
+          <img src="https://github.com/nattagrit.png" width="105" height="105" alt="Nattagrit Rueangmaroeng" />
+        </a>
+        <br><br>
+        <a href="https://github.com/nattagrit">
+          <strong>นายณัฐกฤตย์ เรืองมะเริง</strong>
+        </a>
+        <br>
+        <sub>Nattagrit Rueangmaroeng</sub>
+        <br>
+        <small>รหัสประจำตัว: 66172110149-1</small>
+        <br><br>
+        <a href="https://github.com/nattagrit">
+          <img src="https://img.shields.io/badge/GitHub-nattagrit-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile" />
+        </a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
 
-**อาจารย์ที่ปรึกษาโครงงาน:**
-* อาจารย์ ชิติสรรค์ วิชิโต
+  <br>
+
+  <p align="center">
+    <b>สมาชิกร่วมโครงงาน:</b> นายนวดล ศรีขาว (รหัส 66172110221-4)<br>
+    <b>อาจารย์ที่ปรึกษาโครงงาน:</b> อาจารย์ ชิติสรรค์ วิชิโต<br>
+    <i>สาขาวิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์และเทคโนโลยี มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน (ปีการศึกษา 2566)</i>
+  </p>
+</div>
