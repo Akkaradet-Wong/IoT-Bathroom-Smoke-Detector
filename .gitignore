@@ -1,0 +1,21 @@
+# Arduino & IDE build outputs
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+build/
+.vscode/
+.idea/
+
+# OS metadata
+Thumbs.db
+.DS_Store
+
+# Raw unorganized duplicates (organized under src/ and docs/)
+extracted_images/
+421711647*.jpg
+426833036*.jpg
+431695149*.png
+code smoke.ino
+*เครื่องตรวจจับ*.pdf
