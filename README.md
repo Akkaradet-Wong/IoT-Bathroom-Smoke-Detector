@@ -198,16 +198,16 @@ IoT-Bathroom-Smoke-Detector/
       <td align="center" width="340" valign="top">
         <br>
         <a href="https://github.com/Happym0sttt">
-          <img src="https://github.com/Happym0sttt.png" width="105" height="105" alt="Suphitchaya Pinsuwansaeng" />
+          <img src="https://github.com/Happym0sttt.png" width="105" height="105" alt="Nawadon Srikhao" />
         </a>
         <br><br>
         <a href="https://github.com/Happym0sttt">
-          <strong>นางสาวศุภิชญา ปิ่นสุวรรณแสง</strong>
+          <strong>นายนวดล ศรีขาว</strong>
         </a>
         <br>
-        <sub>Suphitchaya Pinsuwansaeng</sub>
+        <sub>Nawadon Srikhao</sub>
         <br>
-        <small>รหัสประจำตัว: 66172110034-4</small>
+        <small>รหัสประจำตัว: 66172110221-4</small>
         <br><br>
         <a href="https://github.com/Happym0sttt">
           <img src="https://img.shields.io/badge/GitHub-Happym0sttt-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile" />
@@ -260,7 +260,7 @@ IoT-Bathroom-Smoke-Detector/
   <br>
 
   <p align="center">
-    <b>สมาชิกร่วมโครงงาน:</b> นายนวดล ศรีขาว (รหัส 66172110221-4)<br>
+    <b>สมาชิกร่วมโครงงาน:</b> นางสาว ศุภิชญา ปิ่นสุวรรณแสง (รหัส 66172110034-4)<br>
     <b>อาจารย์ที่ปรึกษาโครงงาน:</b> อาจารย์ ชิติสรรค์ วิชิโต<br>
     <i>สาขาวิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์และเทคโนโลยี มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน (ปีการศึกษา 2566)</i>
   </p>
